@@ -50,3 +50,8 @@ We had two different data sets for this project, one that consisted all of Portu
 <img src="decision_tree_ww.PNG">
 <img src="squarred_corr_train_dt_ww.PNG"> TRAINING
 <img src="squared_corr_test_dt_ww.PNG"> TESTING
+
+## Justification of Model Choices
+We decided to use a Linear Regression model because it is easy to interpret the results of the model. It was able to show the realtionship that all of the different variables have on Quality. Since this model is designed for people who are likely unfarmiliar with computing and machine learning, we decided the simpler the model was to understand, the better. The data we had also required a regression model instead of a classification model, so Linear Regression was one of our best options in this regard. We also decided to use a Decision Tree because the layout of the results would be an easy to follow step by step process to help the winemakers to determine how to make the highest qulaity wine. 
+
+## Conclusion
