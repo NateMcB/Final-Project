@@ -19,6 +19,10 @@ We had two different data sets for this project, one that consisted all of Portu
 <img src="corr_matrix_process_rw.PNG">
 <img src="corr_matrix_rw.PNG">
 
+#### White Wine Process and Result
+<img src="corr_matrix_process_ww.PNG">
+<img src="corr_matrix_ww.PNG">
+
 ### Linear Regression Models
 
 #### Red Wine Linear Regression Process
