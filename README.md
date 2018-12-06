@@ -25,10 +25,15 @@ We had two different data sets for this project, one that consisted all of Portu
 
 ### Linear Regression Models
 
-#### Red Wine Linear Regression Process and Result
+#### Red Wine Linear Regression Process, Result, and Squared Error
 <img src="linear_reg_process_rw.PNG">
 <img src="linear_reg_rw.PNG">
 
-#### White Wine Linear Regression Process and Result
+#### White Wine Linear Regression Process, Result, and Squared Error
 <img src="linear_reg_process_ww.PNG">
 <img src="linear_reg_rw.PNG">
+
+### Decision Tree Models 
+
+#### Red Wine Decision Tree Process, Result, and Squared Error
+<img src="
