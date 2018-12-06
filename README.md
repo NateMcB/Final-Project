@@ -40,6 +40,8 @@ We had two different data sets for this project, one that consisted all of Portu
 #### Red Wine Decision Tree Process, Result and Squared Correlation
 <img src="decison_tree_process_rw.PNG">
 <img src="decision_tree_rw.PNG">
+##### Close-Up of Decision Tree Portion
+<img src="decisiontree_section_rw.PNG">
 <img src="squared_corr_train_dt_rw.PNG"> TRAINING
 <img src="squared_corr_test_dt_rw.PNG"> TESTING
 
