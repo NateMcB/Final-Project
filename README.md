@@ -1,5 +1,6 @@
 # Final-Project
-Using Linear Regression and Decision Tree to determine wine quality by chemical makeup
+Using Linear Regression and Decision Tree to determine wine quality based on chemical makeup
+By Rachel Carlson and Nate McBarron
 
 ## Introduction
 The purpose of this project was to create a machine learning model that could help wine makers and wine sellers classify wine quality based on a variety of chemical variables, such as Citric Acid level, Sulphates, and Alcohol Percentage. This would allow wine makers determine what the ideal chemical qualities of a good red or white wine are, in order produce wines that will be most highly rated by experts. Determining quality of wine will also help wine sellers decide how much to charge for certain wines without having to have an expensive professional wine tasting. We created two models to try and better understand what variables will have the most influence on red versus white wine quality, one Linear Regression Model and one Decision Tree Model. We also ran a correlation matric to determine how correlated the variables were with each other before creating our machine learning models. 
