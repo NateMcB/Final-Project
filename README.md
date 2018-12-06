@@ -28,10 +28,12 @@ We had two different data sets for this project, one that consisted all of Portu
 #### Red Wine Linear Regression Process, Result and Squared Correlation
 <img src="linear_reg_process_rw.PNG">
 <img src="linear_reg_rw.PNG">
+<img src="lin_reg_sc_rw.PNG">
 
 #### White Wine Linear Regression Process, Result and Squared Correlation
 <img src="linear_reg_process_ww.PNG">
-<img src="linear_reg_rw.PNG">
+<img src="linear_reg_ww.PNG">
+<img src="lin_reg_sc_ww.PNG">
 
 ### Decision Tree Models 
 
