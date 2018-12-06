@@ -25,15 +25,24 @@ We had two different data sets for this project, one that consisted all of Portu
 
 ### Linear Regression Models
 
-#### Red Wine Linear Regression Process, Result, and Squared Error
+#### Red Wine Linear Regression Process, Result and Squared Correlation
 <img src="linear_reg_process_rw.PNG">
 <img src="linear_reg_rw.PNG">
 
-#### White Wine Linear Regression Process, Result, and Squared Error
+#### White Wine Linear Regression Process, Result and Squared Correlation
 <img src="linear_reg_process_ww.PNG">
 <img src="linear_reg_rw.PNG">
 
 ### Decision Tree Models 
 
-#### Red Wine Decision Tree Process, Result, and Squared Error
-<img src="
+#### Red Wine Decision Tree Process, Result and Squared Correlation
+<img src="dec_tree_process_rw.PNG">
+<img src="decision_tree_rw.PNG">
+<img src="squared_corr_train_dt_rw.PNG"> TRAINING
+<img src="squared_corr_test_dt_rw.PNG"> TESTING
+
+#### White Wine Decision Tree Process, Result, and Squared Correlation 
+<img src="dec_tree_process_ww.PNG">
+<img src="decision_tree_ww.PNG">
+<img src="squared_corr_train_dt_ww.PNG"> TRAINING
+<img src="squared_corr_test_dt_ww.PNG"> TESTING
