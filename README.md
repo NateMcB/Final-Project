@@ -28,3 +28,7 @@ We had two different data sets for this project, one that consisted all of Portu
 #### Red Wine Linear Regression Process and Result
 <img src="linear_reg_process_rw.PNG">
 <img src="linear_reg_rw.PNG">
+
+#### White Wine Linear Regression Process and Result
+<img src="linear_reg_process_ww.PNG">
+<img src="linear_reg_rw.PNG">
