@@ -44,5 +44,5 @@ We had two different data sets for this project, one that consisted all of Portu
 #### White Wine Decision Tree Process, Result, and Squared Correlation 
 <img src="dec_tree_process_ww .PNG">
 <img src="decision_tree_ww.PNG">
-<img src="squared_corr_train_dt_ww.PNG"> TRAINING
-<img src="squarred_corr_test_dt_ww.PNG"> TESTING
+<img src="squarred_corr_train_dt_ww.PNG"> TRAINING
+<img src="squared_corr_test_dt_ww.PNG"> TESTING
